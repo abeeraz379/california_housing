@@ -57,8 +57,8 @@ The model was trained over several epochs to learn the relationship between feat
 
 ## 📈 Model Evaluation
 The model performance was evaluated using **R² (R-squared)**:
-*  **R²=  0.8198** for training data
-*  **R²=  0.7901** for cross validation data
+*  **R²=  0.8217** for training data
+*  **R²=  0.7943** for cross validation data
 *  The model achieved a reasonable R² score, indicating a good ability to explain the variability in housing prices.
 
 ***
